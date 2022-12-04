@@ -1,5 +1,7 @@
 # eCSpress
 
+![](./images/bcg_datathon.png)
+
 This is the repository for the BCG Gamma datathon on optimizing delivery processes in Paris.
 
 ## Team members
