@@ -5,7 +5,7 @@
 This is the repository for the BCG Gamma datathon on optimizing delivery processes in Paris.
 
 
-The repository is made up of four directoried:
+The repository is made up of four directories:
 - data: contains the csv that we used in our project
 - images: images for the README file
 - models: all the models we tested
