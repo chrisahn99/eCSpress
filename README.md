@@ -10,6 +10,7 @@ The repository is made up of four directoried:
 - images: images for the README file
 - models: all the models we tested
 - notebooks_preprocess: notebooks that were used during the preprocessing of the data
+- predictions-notebook-livrable-1.ipynb the main notebook of our project. Contains all the information about our work.
 
 
 
